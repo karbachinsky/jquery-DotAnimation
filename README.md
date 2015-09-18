@@ -1,7 +1,7 @@
 # jquery-DotAnimation
 Popular 3 dot animation lightweight plugin for JQuery
 
-Watch demo on JSFiddle
+Watch demo on JSFiddle: https://jsfiddle.net/bcz8v136/
 
 ##HOWTO
 
